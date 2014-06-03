@@ -1,0 +1,15 @@
+{
+    "name": "poweredbycoffee/acf-select_post_type",
+    "description": "Adds an ACF fiel type for selecting a registered post type",
+    "license": "GPL2",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Stewart Ritchie",
+            "email": "stewart@poweredbycoffee.co.uk"
+        }
+    ],
+    "require": {
+
+    }
+}
