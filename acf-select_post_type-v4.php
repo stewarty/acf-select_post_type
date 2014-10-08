@@ -103,7 +103,7 @@ class acf_field_select_post_type extends acf_field {
 
 		?>
 		<div>
-			<?php echo '<select id="' . $field['id'] . '" class="' . $field['class'] . '" name="' . $field['name'] . '" ' . $multiple . ' >';	?>
+			<?php echo '<select id="' . $field['id'] . '" class="' . $field['class'] . '" name="' . $field['name'] . '" >';	?>
 				<option>Please select</option>
 
 				<?php
